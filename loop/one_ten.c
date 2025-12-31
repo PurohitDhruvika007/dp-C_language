@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int i=1;
+//	while(i<=10)
+//	{
+//		printf("%d ",i);
+//		i++;
+//	}
+	
+//	do{
+//		printf("%d ",i);
+//		i++;
+//	}while(i<=10);
+
+	for(i;i<=10;i++)
+	{
+		printf("%d ",i);
+	}
+	
+}
